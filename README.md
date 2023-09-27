@@ -1,2 +1,2 @@
 # golang-enum
-Implement enum in Go
+Repository shows example to implement enums in golang
