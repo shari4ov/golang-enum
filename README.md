@@ -1,3 +1,3 @@
 # golang-enum
  
-Repository shows example to implement enums in golang
+The repository shows examples of how to implement enums in Golang using interfaces and typed variables. 
